@@ -20,8 +20,8 @@ https://developer.hosting.ionos.es/
 
 
 
-API_KEY="public.private"
-DOMAINS=("domain1.es" "subdomain1.eu" "subdomain2.com")  # Lista de dominios y subdominios
-IP_FILE="current_ip.txt"
-telegramBotToken='token_telegram' #OPTIONAL
-telegramChatID='chatid' #OPTIONAL
+- API_KEY="public.private"  
+- DOMAINS=("domain1.es" "subdomain1.eu" "subdomain2.com")  # Lista de dominios y subdominios
+- IP_FILE="current_ip.txt"
+- telegramBotToken='token_telegram' #OPTIONAL
+- telegramChatID='chatid' #OPTIONAL
